@@ -1,4 +1,4 @@
-### Hello there, Alekk here! 👋
+<!-- ### Hello there, Alekk here! 👋
 
 👨‍💻 All of my projects are available at [alexsirait.vercel.app](https://alexsirait.vercel.app/)
 
@@ -6,3 +6,4 @@
 
 
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
+-->
