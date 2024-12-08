@@ -1,4 +1,5 @@
-![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/main/assets/Alex%20Sirait%20Banner.jpg)
+![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(6).png)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Alex Sirait</h2>
 
@@ -120,5 +121,5 @@ Or you can follow my social media accounts to get updates:
 
 ---
 
-Credits: [ALEX SIRAIT](https://github.com/alexsirait)  
+Credits: [ALEX SIRAIT]([https://github.com/alexsirait](https://alexsirait.vercel.app/))  
 Last Edited on: 08/12/2024
