@@ -47,6 +47,8 @@ I love building things, solving problems, and learning new skills. My passion li
 
 ### 🛠 &nbsp;Tech Stack
 
+
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
