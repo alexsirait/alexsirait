@@ -97,6 +97,15 @@ I love building things, solving problems, and learning new skills. My passion li
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=99425B)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier&logoColor=F7B93E)&nbsp;
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-05122A?style=flat&logo=inertia&logoColor=652D90)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus&logoColor=E6522C)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana&logoColor=F46800)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2&logoColor=2C3E50)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=grpc&logoColor=0078D7)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
