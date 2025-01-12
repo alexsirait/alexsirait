@@ -126,8 +126,9 @@ I love building things, solving problems, and learning new skills. My passion li
 Or you can follow my social media accounts to get updates:  
 
 <p align="center">
-<a href="https://github.com/alexsirait"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
-<a href="https://www.linkedin.com/in/alexsirait/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/alexsirait"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/alexsirait/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://alexsirait.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
