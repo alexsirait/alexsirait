@@ -121,7 +121,6 @@ I love building things, solving problems, and learning new skills. My passion li
 **Business inquiries or hire me?**  
 
 📧 **Email me**: [alexsirait1001@gmail.com](mailto:alexsirait1001@gmail.com)  
-📱 **Phone/WhatsApp**: +62 813-6373-5891  
 
 Or you can follow my social media accounts to get updates:  
 
