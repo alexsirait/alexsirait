@@ -1,4 +1,4 @@
-![Alex Sirait Banner]([https://raw.githubusercontent.com/alexsirait/alexsirait/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(6).png](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(7).png))
+![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(7).png)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Alex Sirait</h2>
@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 **About Me**
 
 <p align="center" style="font-weight: bold; font-size: 30px;">
-<b>🚀 Software Engineer | Community Leader | Freelance Project Manager | Creator of DjangoFusion 💻</b>
+<b>🚀 Expert Software Engineer | Community Leader | Freelance Project Manager | Creator of WsapTO! 💻</b>
 </p>
 
 ### 👨‍💻 Who I Am  
@@ -15,7 +15,7 @@
 - **Lifelong Learner**: Passionate about mastering new technologies and leadership strategies to drive meaningful impact.  
 
 #### 🔧 What I Do  
-- **🔹 Software Engineering**  
+- **🔹 Expert Software Engineering**  
    Expert in PHP, JavaScript, and TypeScript, with advanced experience in frameworks like Laravel, CodeIgniter, ReactJS, and Next.js.  
    Proficient in state management (Redux with TypeScript) and styling frameworks like Tailwind CSS, Bootstrap, and Bulma.  
    Advocate for Clean Code principles and Test-Driven Development (TDD) to ensure quality and scalability.  
@@ -27,7 +27,7 @@
    Initiator of BatamGo, a thriving tech community in Batam, dedicated to mentorship, networking, and collaboration.  
 
 - **🔹 API Framework Innovation**  
-   Creator of DjangoFusion, a groundbreaking API framework that accelerates Django development with simplicity and efficiency.  
+   Creator of WsapTO!, a groundbreaking API framework that accelerates Django development with simplicity and efficiency.  
 
 #### ❤️ Core Values  
 💡 Build with creativity.  
