@@ -7,7 +7,7 @@
 
 I’m a tech visionary building secure, impactful solutions and mentoring the next generation of innovators.
 
-From [CekVC.site](https://cekvc.site)’s AI-powered CV analysis to [Django WsapTo](https://wsapto.vercel.app/)’s developer-friendly framework and [Tracer Polibatam](https://tracer.polibatam.ac.id)’s data-driven insights, I create tools that transform lives.
+From [CekCV.site](https://cekcv.site)’s AI-powered CV analysis to [Django WsapTo](https://wsapto.vercel.app/)’s developer-friendly framework and [Tracer Polibatam](https://tracer.polibatam.ac.id)’s data-driven insights, I create tools that transform lives.
 
 **💡 My mantra:** _Code with purpose, secure with precision, mentor with passion._
 
@@ -16,7 +16,7 @@ From [CekVC.site](https://cekvc.site)’s AI-powered CV analysis to [Django Wsap
 ## 🚀 What I’m All About
 
 - 🛠️ **Craft Scalable Solutions**: Full-stack maestro using Django, Python, and secure architectures (JWT, OTP).
-- 🤖 **Pioneer AI Innovation**: Built CekVC.site, a *tanpa biaya* platform empowering 15,000+ job seekers with Smart Analysis, ATS Optimization, and HR Insights.
+- 🤖 **Pioneer AI Innovation**: Built CekCV.site, a *tanpa biaya* platform empowering 15,000+ job seekers with Smart Analysis, ATS Optimization, and HR Insights.
 - 🌐 **Champion Open-Source**: Created Django WsapTo, a WebSocket/API framework adopted by 2,000+ developers worldwide.
 - 📊 **Drive Institutional Impact**: Developed Tracer Polibatam, a GDPR-compliant alumni tracker managing 7,000+ records.
 - 🧑‍🏫 **Mentor Future Leaders**: Guided 50+ developers to master coding, launch products, and secure tech roles—80% hit career milestones.
@@ -26,11 +26,11 @@ From [CekVC.site](https://cekvc.site)’s AI-powered CV analysis to [Django Wsap
 
 ## 🛠️ My Signature Projects
 
-### [CekVC.site](https://cekvc.site)
+### [CekCV.site](https://cekcv.site)
 **AI-powered CV analysis for all.**  
 Features Smart Analysis, Career Recommendations, ATS Optimization, and CV Scoring.  
 **Impact:** Boosted job offer rates by 45% for 15,000+ users.  
-🎥 [Project](https://cekvc.site)
+🎥 [Project](https://cekcv.site)
 
 ---
 
@@ -51,7 +51,7 @@ GDPR-compliant with intuitive UI.
 
 ## 🌟 Why I Shine
 
-- 🚀 **Innovation at Core** – Turning bold ideas like CekVC.site into reality.
+- 🚀 **Innovation at Core** – Turning bold ideas like CekCV.site into reality.
 - 🔐 **Security First** – Embedding OTP, JWT, and other secure practices in every project.
 - 🧑‍💻 **Mentorship Impact** – 80% of mentees have launched apps, landed jobs, or joined OSS.
 - 🌍 **Global Community** – Over 1,000 GitHub contributions, 15+ webinars hosted.
@@ -152,7 +152,7 @@ GDPR-compliant with intuitive UI.
 <img src="https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/donasi.PNG" alt="alex sirait saweria" style="width: 30%; max-width: 300px;" />
 
 - ⭐ Star my repos like [Django WsapTo](https://wsapto.vercel.app/)
-- 🙌 Try [CekVC.site](https://cekvc.site) and share your feedback
+- 🙌 Try [CekCV.site](https://cekcv.site) and share your feedback
 - ☕ [Buy me a coffee](https://saweria.co/alexsirait)
 - 📣 Spread the word about my mentorship programs
 
