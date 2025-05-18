@@ -1,52 +1,64 @@
 ![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(9).png)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Alex Sirait</h2>
+# 👋 Hi, I'm Alex Sirait!
 
-### 👨🏻‍💻 **About Me**
+**🌍 Expert Software Engineer | Indie Maker | Mentor | Freelance PM** 
 
-<p align="center" style="font-weight: bold; font-size: 30px;">
-<b>🚀 Expert Software Engineer | Community Leader | Freelance Project Manager | Creator of WsapTO! 💻</b>
-</p>
+I’m a tech visionary building secure, impactful solutions and mentoring the next generation of innovators.
 
-### 👨‍💻 Who I Am  
-- **Creative Problem Solver**: Thriving on transforming complex challenges into scalable, elegant solutions.  
-- **Innovative Builder**: From crafting seamless API frameworks to fully-featured web applications, I create value through technology.  
-- **Lifelong Learner**: Passionate about mastering new technologies and leadership strategies to drive meaningful impact.  
+From [CekVC.site](https://cekvc.site)’s AI-powered CV analysis to [Django WsapTo](https://wsapto.vercel.app/)’s developer-friendly framework and [Tracer Polibatam](https://tracer.polibatam.ac.id)’s data-driven insights, I create tools that transform lives.
 
-#### 🔧 What I Do  
-- **🔹 Expert Software Engineering**  
-   Expert in PHP, JavaScript, and TypeScript, with advanced experience in frameworks like Laravel, CodeIgniter, ReactJS, and Next.js.  
-   Proficient in state management (Redux with TypeScript) and styling frameworks like Tailwind CSS, Bootstrap, and Bulma.  
-   Advocate for Clean Code principles and Test-Driven Development (TDD) to ensure quality and scalability.  
+**💡 My mantra:** _Code with purpose, secure with precision, mentor with passion._
 
-- **🔹 Project Management**  
-   As a Freelance Project Manager, I deliver quality results, balancing team collaboration, deadlines, and client satisfaction.  
+---
 
-- **🔹 Community Leadership**  
-   Initiator of BatamGo, a thriving tech community in Batam, dedicated to mentorship, networking, and collaboration.  
+## 🚀 What I’m All About
 
-- **🔹 API Framework Innovation**  
-   Creator of WsapTO!, a groundbreaking API framework that accelerates Django development with simplicity and efficiency.  
+- 🛠️ **Craft Scalable Solutions**: Full-stack maestro using Django, Python, and secure architectures (JWT, OTP).
+- 🤖 **Pioneer AI Innovation**: Built CekVC.site, a *tanpa biaya* platform empowering 15,000+ job seekers with Smart Analysis, ATS Optimization, and HR Insights.
+- 🌐 **Champion Open-Source**: Created Django WsapTo, a WebSocket/API framework adopted by 2,000+ developers worldwide.
+- 📊 **Drive Institutional Impact**: Developed Tracer Polibatam, a GDPR-compliant alumni tracker managing 7,000+ records.
+- 🧑‍🏫 **Mentor Future Leaders**: Guided 50+ developers to master coding, launch products, and secure tech roles—80% hit career milestones.
+- 📈 **Lead with Excellence**: Delivered 30+ freelance projects with 98% on-time success.
 
-#### ❤️ Core Values  
-💡 Build with creativity.  
-🛠 Solve with precision.  
-📈 Deliver with impact.  
+---
 
-#### 🌍 Why I Do What I Do  
-I love building things, solving problems, and learning new skills. My passion lies at the intersection of technology and teamwork—creating intuitive user experiences, empowering communities, and contributing to groundbreaking solutions.  
+## 🛠️ My Signature Projects
 
-#### 🛠 Technical Expertise  
-- **Backend Development**: Extensive experience with Laravel, CodeIgniter, and Django.  
-- **Frontend Development**: Proficient in React, Next.js, and TypeScript, with expertise in styling frameworks like Tailwind CSS, Bootstrap, and Bulma.  
-- **State Management**: Skilled in Redux and TypeScript to manage complex application states.  
-- **Clean Code & TDD**: Advocate for writing maintainable, scalable, and test-driven code.  
+### [CekVC.site](https://cekvc.site)
+**AI-powered CV analysis for all.**  
+Features Smart Analysis, Career Recommendations, ATS Optimization, and CV Scoring.  
+**Impact:** Boosted job offer rates by 45% for 15,000+ users.  
+🎥 [Project](https://cekvc.site)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/alexsirait/alexsirait/main/assets/Night-Coding.gif" align="right"/>
+---
 
-### 🛠 &nbsp;Tech Stack
+### [Django WsapTo](https://wsapto.vercel.app/)
+**Open-source Django framework** for seamless WebSocket and API development.  
+Secure with JWT and rate limiting.  
+**Impact:** 500+ stars, 2,000+ developer adopters.  
+📦 `pip install django-wsapto`
 
+---
+
+### [Tracer Polibatam](https://tracer.polibatam.ac.id)
+**Secure alumni tracking system for academic excellence.**  
+GDPR-compliant with intuitive UI.  
+**Impact:** Increased efficiency by 60% for 7,000+ records.
+
+---
+
+## 🌟 Why I Shine
+
+- 🚀 **Innovation at Core** – Turning bold ideas like CekVC.site into reality.
+- 🔐 **Security First** – Embedding OTP, JWT, and other secure practices in every project.
+- 🧑‍💻 **Mentorship Impact** – 80% of mentees have launched apps, landed jobs, or joined OSS.
+- 🌍 **Global Community** – Over 1,000 GitHub contributions, 15+ webinars hosted.
+
+---
+
+## 🛠️ Tech Stack
 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B)&nbsp;
@@ -107,7 +119,9 @@ I love building things, solving problems, and learning new skills. My passion li
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
 ![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=grpc&logoColor=0078D7)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/alexsirait">
@@ -116,21 +130,39 @@ I love building things, solving problems, and learning new skills. My passion li
 </a>
 </p>
 
-### 📞 &nbsp;Contact  
+---
 
-**Business inquiries or hire me?**  
+## 🤝 Connect with Me
 
-📧 **Email me**: [alexsirait1001@gmail.com](mailto:alexsirait1001@gmail.com)  
+- 📩 Email: [alexsirait1001@gmail.com]
+- 🌐 LinkedIn: [linkedin.com/in/alexsirait](https://linkedin.com/in/alexsirait)
+- 🐦 X: [@alexsrait](https://twitter.com/alexsrait)
+- 🌐 Portfolio: [alexsirait.vercel.app](https://alexsirait.vercel.app)
 
-Or you can follow my social media accounts to get updates:  
+📬 Open to:  
+`[✅]` Open-source collabs  
+`[✅]` Mentorship  
+`[✅]` Freelance gigs  
+`[✅]` AI, Django, or indie making chats!
+
+---
+
+## ☕ Support My Mission
+
+- ⭐ Star my repos like [Django WsapTo](https://wsapto.vercel.app/)
+- 🙌 Try [CekVC.site](https://cekvc.site) and share your feedback
+- ☕ [Buy me a coffee](https://saweria.co/alexsirait)
+- 📣 Spread the word about my mentorship programs
+
+---
+
+> _“Innovate fearlessly, secure meticulously, mentor generously.” – Alex Sirait_  
+> ☕ _Fun fact: My best ideas spark over kopi tubruk while mentoring the next tech leaders._
+
+
 
 <p align="center">
   <a href="https://github.com/alexsirait"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a>
   <a href="https://www.linkedin.com/in/alexsirait/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://alexsirait.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
 </p>
-
----
-
-Credits: [ALEX SIRAIT]([https://github.com/alexsirait](https://alexsirait.vercel.app/))  
-Last Edited on: 08/12/2024
