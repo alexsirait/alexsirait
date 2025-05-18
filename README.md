@@ -1,4 +1,4 @@
-![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(9).png)
+![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(10).png)
 
 
 # 👋 Hi, I'm Alex Sirait!
