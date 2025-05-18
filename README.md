@@ -1,4 +1,4 @@
-![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(7).png)
+![Alex Sirait Banner](https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(9).png)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Alex Sirait</h2>
