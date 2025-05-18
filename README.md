@@ -149,6 +149,8 @@ GDPR-compliant with intuitive UI.
 
 ## ☕ Support My Mission
 
+<img src="https://raw.githubusercontent.com/alexsirait/alexsirait/refs/heads/main/donasi.PNG" alt="alex sirait saweria" style="width: 30%; max-width: 300px;" />
+
 - ⭐ Star my repos like [Django WsapTo](https://wsapto.vercel.app/)
 - 🙌 Try [CekVC.site](https://cekvc.site) and share your feedback
 - ☕ [Buy me a coffee](https://saweria.co/alexsirait)
