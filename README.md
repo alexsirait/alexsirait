@@ -38,7 +38,7 @@ Features Smart Analysis, Career Recommendations, ATS Optimization, and CV Scorin
 **Open-source Django framework** for seamless WebSocket and API development.  
 Secure with JWT and rate limiting.  
 **Impact:** 500+ stars, 2,000+ developer adopters.  
-📦 `pip install django-wsapto`
+📦 `pip install wsapto`
 
 ---
 
