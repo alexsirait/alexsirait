@@ -3,11 +3,11 @@
 
 # 👋 Hi, I'm Alex Sirait!
 
-**🌍 Expert Software Engineer | Indie Maker | Mentor | Freelance PM** 
+I turn complex ideas into scalable, user-centric software.
 
-I’m a tech visionary building secure, impactful solutions and mentoring the next generation of innovators.
+I am a **Senior Software Engineer** and Indie Maker who doesn't just write code. I build businesses. With a focus on high-performance architecture and product-market fit, I’ve bootstrapped platforms serving over 15,000+ users without outside funding.
 
-From [CekCV.site](https://cekcv.site)’s AI-powered CV analysis to [Django WsapTo](https://wsapto.vercel.app/)’s developer-friendly framework and [Tracer Polibatam](https://tracer.polibatam.ac.id)’s data-driven insights, I create tools that transform lives.
+I help startups and enterprises build secure, scalable MVPs and optimize existing systems for growth.
 
 **💡 My mantra:** _Code with purpose, secure with precision, mentor with passion._
 
